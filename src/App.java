@@ -1,4 +1,5 @@
 public class App {
+	//modify for push
     public int[] sum(int[] nums,int k){
         int[] result = new int[2];
         for(int i=0;i<nums.length;i++){
